@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   &nbsp;   &nbsp;
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&layout=compact&theme=algolia">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raus376&layout=compact&theme=algolia">
 </p>
 
 
@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavgujral&theme=tokyonight"> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavgujral&theme=xcode&hide_langs_below=1"> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=raus376&theme=tokyonight"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raus376&theme=xcode&hide_langs_below=1"> -->
 <img src="https://activity-graph.herokuapp.com/graph?username=raus376&theme=xcode">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhinavgujral&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 <img src="https://github-profile-trophy.vercel.app/?username=raus376&theme=monokai&row=1&column=4">
