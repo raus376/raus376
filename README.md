@@ -92,6 +92,14 @@ Here are some ideas to get you started:
 <img src="https://activity-graph.herokuapp.com/graph?username=raus376&theme=xcode">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhinavgujral&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 <img src="https://github-profile-trophy.vercel.app/?username=raus376&theme=monokai&row=1&column=4">
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raus376&show_icons=true&locale=en" alt="raus376" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raus376&" alt="raus376" /></p>
+
+
 <h3>When not coding:</h3>
 Playing 	&#127925;<br>
 Reading 📚<br>
