@@ -95,10 +95,10 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raus376&show_icons=true&locale=en" alt="raus376" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raus376&" alt="raus376" /></p>
-
+<section>
+<img src='https://github-readme-stats.vercel.app/api?username=raus376&theme=blue-green'/>
+<img src='http://github-readme-streak-stats.herokuapp.com?user=raus376&theme=dark&background=000000'/>
+</section>
 
 <h3>When not coding:</h3>
 Playing 	&#127925;<br>
