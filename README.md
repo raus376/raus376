@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Raushan+Kumar!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey !+It's+Raushan+Kumar!;Skilled+Java+Full Stack+Developer...👨🏻‍💻;" style="width: 100%;">
 
 
 Hello, I am a graduate from Gurukula Kangri Vishwavidyalaya,Haridwar(India).
@@ -33,7 +33,7 @@ Java, Spring Boot, Hibernate, Angular, and MySQL</li>
 <ul>
   <li>Open source Projects</li>
   <!-- <li>Full-stack Development</li> -->
-  <li>Java Back-end Development</li>
+  <li>Java Full Stack Development</li>
 </ul>
 
 
