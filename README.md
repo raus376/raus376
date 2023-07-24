@@ -4,14 +4,15 @@
 
 
 Hello, I am a graduate from Gurukula Kangri Vishwavidyalaya,Haridwar(India).
-A passionate self-learner  and a Java Back-end Developer,
+A passionate self-learner  and a Java Full Stack Developer,
 and always looking to find patterns of which are helful in learning Back-end Development
  
 
 
  💬 About me ...<br>
 <ul>
-  <li>🌱🌱 I’m currently learning Springboot,Hibernate,MySQL,Core Java</li>
+  <li>🌱🌱 Skilled Java Full Stack Developer specializing in
+Java, Spring Boot, Hibernate, Angular, and MySQL</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
   
 - 💬 Ask me about **Anything**
@@ -20,7 +21,7 @@ and always looking to find patterns of which are helful in learning Back-end Dev
 
 
 <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/file/d/1LYJ9LyJSeYK7HsnbD2goc2Eac28oj0qP/view?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/drive/folders/12J-7W30HpOOF0WC6Wnewwl-s8oFpxNKp?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 - 📫 How to reach me **raushan376kumar@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
