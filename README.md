@@ -16,7 +16,7 @@ environment along with a winning team.
 <ul>
   <li>🌱🌱 Skilled Java Full Stack Developer specializing in
 Java, Spring Boot, Hibernate, Angular, and MySQL</li>
-<li>🔭 Open to collaboration opportunities on with any Java Full Stack projects</li>
+<li>🔭 Open to collaboration opportunities on any Java Full Stack projects</li>
   
 - 💬 Inquire about **Anything**
 <!-- Portfolio -->
