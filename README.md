@@ -3,33 +3,36 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Raushan+Kumar!;Skilled+Java+Full+Stack+Developer...👨🏻‍💻;" style="width: 100%;">
 
 
-Hello, I am a graduate from Gurukula Kangri Vishwavidyalaya,Haridwar(India).
-A passionate self-learner  and a Java Full Stack Developer,
-and always looking to find patterns of which are helful in learning Back-end Development
+Skilled and Experienced Java Full Stack Developer
+specializing in Java, Spring Boot, Hibernate,
+Angular, and MySQL. Seeking a Java Full Stack
+Developer position with an outstanding career
+opportunity that will offer a rewarding work
+environment along with a winning team.
  
 
 
- 💬 About me ...<br>
+ 💬 Get to Know ...<br>
 <ul>
   <li>🌱🌱 Skilled Java Full Stack Developer specializing in
 Java, Spring Boot, Hibernate, Angular, and MySQL</li>
-<li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
+<li>🔭 Open to collaboration opportunities on with any Java Full Stack projects</li>
   
-- 💬 Ask me about **Anything**
+- 💬 Inquire about **Anything**
 <!-- Portfolio -->
-- 👨‍💻 Checkout my [Portfolio](https://raus376.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 👨‍💻 Checkout [Portfolio](https://raus376.github.io/) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 
 <!-- Resume -->
--  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout my [Resume](https://drive.google.com/drive/folders/12J-7W30HpOOF0WC6Wnewwl-s8oFpxNKp?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
-- 📫 How to reach me **raushan376kumar@gmail.com**
+-  <img width="20" src = "https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" > Checkout [Resume](https://drive.google.com/drive/folders/12J-7W30HpOOF0WC6Wnewwl-s8oFpxNKp?usp=sharing) &nbsp; <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 📫 How to reach **raushan376kumar@gmail.com**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- ⚡ Fun fact **You can have some free cookies to eat 🍪😂**
 <!--   <li>📰 My First Web Page_________________________________</li> -->
   
 </ul>
 
-👯 I’m looking to collaborate on ..
+👯 Open to collaboration opportunities on ..
 <ul>
   <li>Open source Projects</li>
   <!-- <li>Full-stack Development</li> -->
