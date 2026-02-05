@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Raushan Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;2.5%2B+Years+Experience+%F0%9F%92%BC;Building+Scalable+Solutions+%F0%9F%92%A1;Fintech+%26+Microservices+Expert+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;2.5%2B+Years+Experience+%F0%9F%92%BC;Building+Scalable+Solutions+%F0%9F%92%A1; Fintech+%26+Microservices+Expert+%E2%9A%A1" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square&logo=java&logoColor=white" />
