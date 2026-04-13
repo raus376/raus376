@@ -238,7 +238,7 @@ graph LR
 </div>
 
 **🌱 Currently Learning:** Advanced System Design, Spring Cloud, Distributed Systems  
-**🔭 Working On:** Production-grade Fintech Platform with 1000+ monthly users  
+**🔭 Working On:** Production-grade Fintech Platform with 5M+ users  
 **👯 Open to Collaborate:** Open Source Java Projects, Full Stack Applications, Microservices Architecture  
 **💬 Ask Me About:** Java, Spring Boot, Microservices, Angular, AWS, System Design  
 **📫 Reach Me:** raushan376kumar@gmail.com
