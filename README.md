@@ -2,13 +2,13 @@
 
 # 👋 Hey there! I'm Raushan Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=1000&lines=🚀+Java+Full+Stack+Developer;⌛+2.5%2B+Years+of+Experience;🤖+AI+Enthusiast;💻+Proficient+in+Data+Structures+%26+Algorithms;⚡+Building+Scalable+%2C+Secure+Web+Applications;⚙️+High-Performance+Web+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=F75C7E&center=true&vCenter=true&width=1000&lines=🚀+Java+Full+Stack+Developer;⌛+3%2B+Years+of+Experience;🤖+AI+Enthusiast;💻+Proficient+in+Data+Structures+%26+Algorithms;⚡+Building+Scalable+%2C+Secure+Web+Applications;⚙️+High-Performance+Web+Applications" alt="Typing SVG" />
 
 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-3+%2B%20Years-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-Bengaluru-success?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Specialization-Fintech%20%7C%20Microservices-orange?style=flat-square" />
 </p>
@@ -34,7 +34,7 @@
 **📅 Oct 2023 - Present** | **🚀 FINZY (Fintech Platform)**
 
 
-+ Designed end-to-end Lender and IFA onboarding APIs → 1000+ monthly onboardings
++ Designed end-to-end Lender and IFA onboarding APIs → Handling 1M+ requests per day and 1M+ monthly onboardings
 + Built comprehensive Loan Management System → 50% reduction in manual KYC
 + Architected investment and portfolio management APIs with real-time tracking
 + Engineered daily ledger and cashflow batch processes
