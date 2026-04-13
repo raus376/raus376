@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-3+%2B%20Years-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Lives-Bengaluru-success?style=flat-square&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Specialization-Fintech%20%7C%20Microservices-orange?style=flat-square" />
 </p>
