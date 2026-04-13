@@ -40,7 +40,7 @@
 + Engineered daily ledger and cashflow batch processes
 + Created Java 17 + Spring Boot 3 RegTech library for multi-vendor integration
 + Integrated backend APIs with Angular → Drove business to crores in investments
-+ Resolved 100+ critical production issues with zero data inconsistency
++ Resolved 250+ critical production issues with zero data inconsistency
   
 
 **🛠️ Tech Stack:** `Java` `Spring Boot` `Spring MVC` `Hibernate` `Angular` `PostgreSQL` `MongoDB` `AWS` `Docker` `Microservices`
