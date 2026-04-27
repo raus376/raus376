@@ -125,7 +125,7 @@
 
 <div align="center">
 
-### Languages
+### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -135,39 +135,75 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+---
+
+### ⚙️ Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Databases
+---
+
+### 🔧 Backend & API Development
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge)
+![Microservices Architecture](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge)
+![Monolithic Systems](https://img.shields.io/badge/Monolith-6A5ACD?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API_Design-0A66C2?style=for-the-badge)
+
+---
+
+### 🧠 System Design & Design Patterns
+![HLD](https://img.shields.io/badge/HLD-000000?style=for-the-badge)
+![LLD](https://img.shields.io/badge/LLD-000000?style=for-the-badge)
+![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-28A745?style=for-the-badge)
+![Fault-Tolerant Design](https://img.shields.io/badge/Fault_Tolerance-FF5733?style=for-the-badge)
+
+---
+
+### 🔐 Security & Authentication
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-8E44AD?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### Cloud & DevOps
+---
+
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=for-the-badge)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A66C2?style=for-the-badge)
+
+---
+
+### 🧰 Testing & Tools
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Tools & Technologies
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-### Security & APIs
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C873A?style=for-the-badge&logo=oauth&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=micro&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 </div>
 
